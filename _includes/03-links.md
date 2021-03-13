@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+[Facebook](https://facebook.com/aravinds.arv)
+[Instagram](https://www.instagram.com/aravinds.arv)
+[LinkedIn](https://www.linkedin.com/aravinds-arv)
