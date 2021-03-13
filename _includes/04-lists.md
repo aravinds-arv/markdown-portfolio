@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻  
+* Rookie Programmer
+* UI/UX Designer
+* AI/ML Enthusiast
